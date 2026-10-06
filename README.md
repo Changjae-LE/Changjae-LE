@@ -5,8 +5,9 @@ Cloud Infrastructure · Cloud Security · SRE · DevSecOps
 I'm pursuing an M.S. in Computer Science at the University of Southern California,
 with an expected graduation in May 2027.
 
-I'm interested in cloud computing, particularly cloud infrastructure,
-cloud security, and site reliability engineering, with a focus on Microsoft Azure.
+I'm interested in technologies that keep cloud systems reliable and secure.
+I enjoy automating repetitive tasks and building tools that automatically
+identify and resolve problems.
 
 I build tools for diagnosing deployment failures, enforcing CI security policies,
 and verifying incident evidence. Through these projects, I'm developing the
