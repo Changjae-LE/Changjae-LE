@@ -1,6 +1,6 @@
 # Hi, I'm Changjae Lee
 
-Cloud Infrastructure · Cloud Security · SRE · DevSecOps
+Building Reliable and Secure Cloud Systems
 
 I'm pursuing an M.S. in Computer Science at the University of Southern California,
 with an expected graduation in May 2027.
@@ -8,10 +8,6 @@ with an expected graduation in May 2027.
 I'm interested in technologies that keep cloud systems reliable and secure.
 I enjoy automating repetitive tasks and building tools that automatically
 identify and resolve problems.
-
-I build tools for diagnosing deployment failures, enforcing CI security policies,
-and verifying incident evidence. Through these projects, I'm developing the
-automation and operational skills needed to build reliable, secure cloud systems.
 
 ## Featured Projects
 
